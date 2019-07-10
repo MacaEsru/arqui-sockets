@@ -13,7 +13,7 @@ npm install -g typescript
 tsc --init 
 tsc -w pasar de ts a js
 
-# Practica 1
+# Practica 1_
 ```
 Conectar a la base de datos
 Generar peticiones get, delete, post
